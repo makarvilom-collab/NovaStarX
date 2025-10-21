@@ -1,5 +1,5 @@
 {
-  "name": "novastarx",
+  "name": "novastarx-telegram-stars",
   "version": "1.0.0",
   "description": "NovaStarX - Telegram Stars Marketplace with multi-currency calculator",
   "main": "server.js",
