@@ -1,7 +1,7 @@
 {
-  "name": "pixelstars",
+  "name": "novastarx",
   "version": "1.0.0",
-  "description": "PixelStars - Telegram Mini App для покупки и продажи Telegram Stars",
+  "description": "NovaStarX - Telegram Stars Marketplace with multi-currency calculator",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -1,8 +1,8 @@
-# 🌟 PixelStars - Telegram Stars Marketplace
+# 🌟 NovaStarX - Telegram Stars Marketplace
 
 **Красивый и функциональный веб-сайт для покупки звёзд Telegram**
 
-![PixelStars](https://img.shields.io/badge/Status-Ready-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Tech](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-orange)
+![NovaStarX](https://img.shields.io/badge/Status-Ready-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Tech](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-orange)
 
 ## ✨ Особенности
 
@@ -34,8 +34,8 @@
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/yourusername/PixelStars.git
-cd PixelStars
+git clone https://github.com/makarvilom-collab/NovaStarX.git
+cd NovaStarX
 
 # Запускаем локальный сервер
 python3 -m http.server 8000
