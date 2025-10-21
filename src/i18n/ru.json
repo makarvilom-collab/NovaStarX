@@ -1,0 +1,89 @@
+{
+  "app": {
+    "title": "PixelStars",
+    "subtitle": "Покупай и продавай звёзды быстро и безопасно",
+    "welcome": "Привет! Это PixelStars — покупай и продавай звёзды быстро и безопасно ✨"
+  },
+  "navigation": {
+    "home": "Главная",
+    "history": "История",
+    "settings": "Настройки"
+  },
+  "rates": {
+    "title": "Текущий курс",
+    "buy": "Покупка",
+    "sell": "Продажа",
+    "loading": "Загрузка курса..."
+  },
+  "actions": {
+    "buy": "Купить",
+    "sell": "Продать",
+    "history": "История операций",
+    "confirm": "Подтвердить",
+    "cancel": "Отменить",
+    "close": "Закрыть"
+  },
+  "buy": {
+    "title": "Покупка звёзд",
+    "amount_label": "Количество звёзд",
+    "amount_placeholder": "100",
+    "total_label": "К оплате:",
+    "button": "Оплатить",
+    "success": "Успешно куплено {amount} звёзд!",
+    "error": "Ошибка при покупке звёзд",
+    "invalid_amount": "Введите корректное количество звёзд",
+    "processing": "Инициализация платежа..."
+  },
+  "sell": {
+    "title": "Продажа звёзд",
+    "amount_label": "Количество звёзд",
+    "amount_placeholder": "100",
+    "total_label": "К получению:",
+    "button": "Продать",
+    "success": "Успешно продано {amount} звёзд за {total}₽!",
+    "error": "Ошибка при продаже звёзд",
+    "insufficient_balance": "Недостаточно звёзд на балансе",
+    "invalid_amount": "Введите корректное количество звёзд",
+    "processing": "Обработка продажи..."
+  },
+  "stats": {
+    "title": "Ваша статистика",
+    "balance": "Звёзд на балансе",
+    "transactions": "Всего операций",
+    "total_bought": "Куплено звёзд",
+    "total_sold": "Продано звёзд"
+  },
+  "history": {
+    "title": "История операций",
+    "empty": "Операций пока нет",
+    "type_buy": "Покупка",
+    "type_sell": "Продажа",
+    "status_completed": "Завершено",
+    "status_pending": "В обработке",
+    "status_failed": "Ошибка",
+    "in_development": "История операций в разработке"
+  },
+  "notifications": {
+    "rate_updated": "Курс обновлён",
+    "connection_error": "Ошибка соединения",
+    "unknown_error": "Произошла неизвестная ошибка"
+  },
+  "errors": {
+    "network": "Проблемы с сетью",
+    "server": "Ошибка сервера",
+    "validation": "Неверные данные",
+    "insufficient_funds": "Недостаточно средств",
+    "invalid_quantity": "Неверное количество",
+    "rate_loading": "Ошибка загрузки курсов"
+  },
+  "validation": {
+    "required": "Поле обязательно для заполнения",
+    "min_amount": "Минимальное количество: {min}",
+    "max_amount": "Максимальное количество: {max}",
+    "positive_number": "Введите положительное число"
+  },
+  "currency": {
+    "rub": "₽",
+    "stars": "⭐"
+  }
+}

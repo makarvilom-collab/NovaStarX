@@ -1,0 +1,89 @@
+{
+  "app": {
+    "title": "PixelStars",
+    "subtitle": "Buy and sell stars quickly and safely",
+    "welcome": "Hi! This is PixelStars — buy and sell stars quickly and safely ✨"
+  },
+  "navigation": {
+    "home": "Home",
+    "history": "History",
+    "settings": "Settings"
+  },
+  "rates": {
+    "title": "Current rates",
+    "buy": "Buy",
+    "sell": "Sell",
+    "loading": "Loading rates..."
+  },
+  "actions": {
+    "buy": "Buy",
+    "sell": "Sell",
+    "history": "Transaction history",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "buy": {
+    "title": "Buy stars",
+    "amount_label": "Number of stars",
+    "amount_placeholder": "100",
+    "total_label": "Total:",
+    "button": "Pay",
+    "success": "Successfully bought {amount} stars!",
+    "error": "Error purchasing stars",
+    "invalid_amount": "Enter a valid number of stars",
+    "processing": "Initializing payment..."
+  },
+  "sell": {
+    "title": "Sell stars",
+    "amount_label": "Number of stars",
+    "amount_placeholder": "100",
+    "total_label": "To receive:",
+    "button": "Sell",
+    "success": "Successfully sold {amount} stars for {total}₽!",
+    "error": "Error selling stars",
+    "insufficient_balance": "Insufficient stars balance",
+    "invalid_amount": "Enter a valid number of stars",
+    "processing": "Processing sale..."
+  },
+  "stats": {
+    "title": "Your statistics",
+    "balance": "Stars balance",
+    "transactions": "Total transactions",
+    "total_bought": "Stars bought",
+    "total_sold": "Stars sold"
+  },
+  "history": {
+    "title": "Transaction history",
+    "empty": "No transactions yet",
+    "type_buy": "Buy",
+    "type_sell": "Sell",
+    "status_completed": "Completed",
+    "status_pending": "Pending",
+    "status_failed": "Failed",
+    "in_development": "Transaction history in development"
+  },
+  "notifications": {
+    "rate_updated": "Rates updated",
+    "connection_error": "Connection error",
+    "unknown_error": "Unknown error occurred"
+  },
+  "errors": {
+    "network": "Network issues",
+    "server": "Server error",
+    "validation": "Invalid data",
+    "insufficient_funds": "Insufficient funds",
+    "invalid_quantity": "Invalid quantity",
+    "rate_loading": "Error loading rates"
+  },
+  "validation": {
+    "required": "Field is required",
+    "min_amount": "Minimum amount: {min}",
+    "max_amount": "Maximum amount: {max}",
+    "positive_number": "Enter a positive number"
+  },
+  "currency": {
+    "rub": "₽",
+    "stars": "⭐"
+  }
+}
