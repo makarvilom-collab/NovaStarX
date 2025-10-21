@@ -6,26 +6,14 @@
       "use": "@vercel/static"
     },
     {
-      "src": "bot.js",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "api/bot.js",
+      "src": "api/webhook.js",
       "use": "@vercel/node"
     }
   ],
   "rewrites": [
     {
       "source": "/api/webhook",
-      "destination": "/bot.js"
-    },
-    {
-      "source": "/api/bot",
-      "destination": "/api/bot.js"
-    },
-    {
-      "source": "/api/(.*)",
-      "destination": "/server.js"
+      "destination": "/api/webhook.js"
     },
     {
       "source": "/(.*)",
