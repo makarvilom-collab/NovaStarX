@@ -1,11 +1,12 @@
 {
   "name": "novastars-telegram-marketplace",
   "version": "1.0.0",
-  "description": "NovaStarsX - Telegram Stars Marketplace with multi-currency calculator",
+  "description": "NovaStarsX - Telegram бот для покупки звёзд",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
+    "bot": "node bot.js",
     "build": "echo 'Статический проект, сборка не требуется'",
     "vercel-build": "echo 'Vercel build complete'",
     "test": "echo 'Тесты не настроены' && exit 1"
@@ -23,7 +24,8 @@
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "axios": "^1.6.0",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "telegraf": "^4.15.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
